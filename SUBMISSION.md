@@ -12,3 +12,5 @@ Solana is strict. If any part of my code fails (like if someone tries to withdra
 
 #Rent is a storage fee: 
 Storing data on the blockchain isn't free. We pay a tiny deposit called "rent" (in SOL) to keep the account open. It’s just like paying for a digital storage locker.
+
+<img width="1330" height="538" alt="image" src="https://github.com/user-attachments/assets/936b9fac-d9b5-46c2-b530-0f0f839723b4" />
